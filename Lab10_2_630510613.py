@@ -4,7 +4,7 @@
 #Lab10_2
 
 def calculate_p2p_evolve_exp(p, c) :
-    evo = 0
+    evo = 0 //
     count = 0
     while p > 0:
         evo  += (c+count+p)//12
