@@ -1,8 +1,3 @@
-#630510613
-#คุณากร โทปุรินทร์
-#section 3
-#Lab10_5
-
 def three_digits_to_word(n):
     ans = ""
     x = n
