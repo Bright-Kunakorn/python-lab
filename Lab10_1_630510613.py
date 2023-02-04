@@ -2,7 +2,6 @@
 #คุณากร โทปุรินทร์
 #section 3
 #Lab10_1
-
 # Define a function to check if two strings are anagrams of each other.
 def  is_anagram(s1, s2):
     # Remove spaces and convert both strings to lowercase.
