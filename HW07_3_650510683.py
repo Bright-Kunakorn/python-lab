@@ -4,7 +4,6 @@
 # HW07_3
 # 204111 Sec 003
 
-
 # รับค่าจาก user
 def main():
     n = str(input())
