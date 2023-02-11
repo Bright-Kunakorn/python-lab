@@ -7,7 +7,6 @@ def  is_anagram(s1, s2):
     # Remove spaces and convert both strings to lowercase.
     s1 = s1.replace(" ","").lower()
     s2 = s2.replace(" ","").lower()
-    
     # Check if the sorted versions of the strings are equal.
     if word_sort(s1) == word_sort(s2):
         return True
