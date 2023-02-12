@@ -2,7 +2,6 @@
 #คุณากร โทปุรินทร์
 #section 3
 #Lab10_3
-
 def nondest_rotate_list(list_a, n):
     return -n % len(list_a)
 
