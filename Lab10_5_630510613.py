@@ -14,7 +14,6 @@ def three_digits_to_word(n):
                 ans =ans+"-"+list_1[(x%100)%10]  ##add once digit
         else:
             ans = ans+" "+list_1[x%100] ##add 1-19
-            
     else:
         if x > 19:
             ans = ans+list_2[x//10] ##add ten digit
