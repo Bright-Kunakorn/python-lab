@@ -24,6 +24,7 @@ def three_digits_to_word(n):
             ans = ans+list_1[x] ##add once digit 1-19
     return ans
 
+
 def num_to_word(num):
     x = num
     ans = ""
